@@ -11,7 +11,7 @@ export default function Footer() {
           </h2>
           <li className="ml-5">
             <a href={cv} download="Judy - Personal CV" className="btn-primary">
-              Download my CV
+              CV
             </a>
           </li>
         </div>
